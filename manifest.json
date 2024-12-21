@@ -1,0 +1,21 @@
+{
+    "name": "Random Fox",
+    "short_name": "FoxApp",
+    "description": "Get a random fox image every time you click a button!",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#4CAF50",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "12.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "12.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ]
+}
